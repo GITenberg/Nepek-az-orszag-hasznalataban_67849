@@ -1,0 +1,44 @@
+_repo: Nepek-az-orszag-hasznalataban_67849
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Móricz, Zsigmond
+    alias: Moricz, Zsigmond
+    birthdate: 1879
+    deathdate: 1942
+    gutenberg_agent_id: '41606'
+    url: http://www.gutenberg.org/2009/agents/41606
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Zsigmond_M%C3%B3ricz
+    - https://hu.wikipedia.org/wiki/M%C3%B3ricz_Zsigmond
+creator:
+  author:
+    agent_name: Tömörkény, István
+    aliases:
+    - Tomorkeny, Istvan
+    - István Tömörkény
+    birthdate: 1866
+    deathdate: 1917
+    gutenberg_agent_id: '32758'
+    url: http://www.gutenberg.org/2009/agents/32758
+    wikipedia: https://hu.wikipedia.org/wiki/T%C3%B6m%C3%B6rk%C3%A9ny_Istv%C3%A1n
+description: ''
+gutenberg_issued: '2022-04-16'
+identifiers:
+  gutenberg: '67849'
+language: hu
+pgterms:marc905: 20220414052133tmrkny
+pgterms:marc906: '1917'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the HathiTrust
+  Digital Library
+publication_note: Hungary :Táltos,1917.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Hungarian fiction -- 20th century'
+- GITenberg
+title: Népek az ország használatában
+url: http://www.gutenberg.org/ebooks/67849
