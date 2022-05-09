@@ -11,6 +11,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Zsigmond_M%C3%B3ricz
     - https://hu.wikipedia.org/wiki/M%C3%B3ricz_Zsigmond
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tömörkény, István
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32758
     wikipedia: https://hu.wikipedia.org/wiki/T%C3%B6m%C3%B6rk%C3%A9ny_Istv%C3%A1n
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67849#Nepek-az-orszag-hasznalataban
 gutenberg_issued: '2022-04-16'
 identifiers:
   gutenberg: '67849'
